@@ -1,0 +1,8 @@
+  name = "youtube-search-api"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[env.production]
+name = "youtube-search-api-prod"
+route = "https://your-domain.com/*"
+zone_id = "your-zone-id"
