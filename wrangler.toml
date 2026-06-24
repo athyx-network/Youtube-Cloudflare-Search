@@ -1,4 +1,4 @@
-  name = "youtube-search-api"
+  name = "yt-search-api"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
 
